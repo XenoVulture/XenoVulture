@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm AJ, I'm and avid gamer. My gaming focus often changes and shifts, but currently playing FFXIV, Deep Rock and a smattering of various single player games.
+I'm hoping to learn more about coding so I can make my own games or at the very least look into some freelance work.
