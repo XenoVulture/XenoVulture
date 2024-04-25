@@ -1,0 +1,13 @@
+D:\CPT-185\AndrewRusso-CPT-185-Final-Project\bin\Debug\AndrewRusso-CPT-185-Final-Project.exe.config
+D:\CPT-185\AndrewRusso-CPT-185-Final-Project\bin\Debug\AndrewRusso-CPT-185-Final-Project.exe
+D:\CPT-185\AndrewRusso-CPT-185-Final-Project\bin\Debug\AndrewRusso-CPT-185-Final-Project.pdb
+D:\CPT-185\AndrewRusso-CPT-185-Final-Project\obj\Debug\AndrewRusso-CPT-185-Final-Project.csproj.AssemblyReference.cache
+D:\CPT-185\AndrewRusso-CPT-185-Final-Project\obj\Debug\AndrewRusso_CPT_185_Final_Project.Properties.Resources.resources
+D:\CPT-185\AndrewRusso-CPT-185-Final-Project\obj\Debug\AndrewRusso-CPT-185-Final-Project.csproj.GenerateResource.cache
+D:\CPT-185\AndrewRusso-CPT-185-Final-Project\obj\Debug\AndrewRusso-CPT-185-Final-Project.csproj.CoreCompileInputs.cache
+D:\CPT-185\AndrewRusso-CPT-185-Final-Project\obj\Debug\AndrewRusso-CPT-185-Final-Project.exe
+D:\CPT-185\AndrewRusso-CPT-185-Final-Project\obj\Debug\AndrewRusso-CPT-185-Final-Project.pdb
+D:\CPT-185\AndrewRusso-CPT-185-Final-Project\obj\Debug\AndrewRusso_CPT_185_Final_Project.DeckSelection.resources
+D:\CPT-185\AndrewRusso-CPT-185-Final-Project\obj\Debug\AndrewRusso_CPT_185_Final_Project.Game.resources
+D:\CPT-185\AndrewRusso-CPT-185-Final-Project\obj\Debug\AndrewRusso_CPT_185_Final_Project.Help.resources
+D:\CPT-185\AndrewRusso-CPT-185-Final-Project\obj\Debug\AndrewRusso_CPT_185_Final_Project.Shop.resources
